@@ -137,4 +137,3 @@ cout<<"The size of long is "<<sizeof(long)<<endl;
 cout<<"The size of long double is "<<sizeof(long double)<<endl;
 return 0;
 }
-
